@@ -1,0 +1,56 @@
+{
+    "transportss": [
+      {
+        "name": "Transport 1",
+        "objects": [
+            {
+                "type": "circle",
+                "radius": 50
+              },
+              {
+                "type": "circle",
+                "radius": 50
+              },
+          {
+            "type": "square",
+            "width": 100,
+            "length": 100
+          }
+        ]
+      },
+      {
+        "name": "Transport 2",
+        "objects": [
+          {
+            "type": "square",
+            "width": 400,
+            "length": 400
+          },
+          {
+            "type": "circle",
+            "radius": 100
+          }
+        ]
+      },
+      {
+        "name": "Transport 3",
+        "objects": [
+          {
+            "type": "square",
+            "width": 150,
+            "length": 100
+          },
+          {
+            "type": "square",
+            "width": 50,
+            "length": 50
+          },
+          {
+            "type": "circle",
+            "radius": 50
+          }
+        ]
+      }
+    ]
+  }
+  
