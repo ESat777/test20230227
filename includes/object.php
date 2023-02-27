@@ -23,7 +23,7 @@ class Circle extends Objects {
     }
 
     public function getArea() {
-        return $this->radius * 2;
+        return pi() * pow($this->radius, 2);
     }
 
 }
