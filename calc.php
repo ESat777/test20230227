@@ -31,7 +31,7 @@
                 $params = new Circle($radius);
                 is_numeric( $circleArea = $params->getArea());
                 is_numeric($fullArea = $squareArea + $circleArea);
-                echo ("Objects used area: ") . $fullArea  . "<br>";
+                echo ("Objects used area: ") . (int)$fullArea  . "<br>";
 
                 $params = new Container($contLength, $contWidth);
                 is_numeric($contArea1 = $params->getCapacity());
