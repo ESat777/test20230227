@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
      integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-    <title>Test</title>
+    <title>Document</title>
 </head>
 
 <body>
@@ -121,7 +121,7 @@
         }
 
         ?>
-      <button class="m-5" onclick="window.location.href='https://testas.projektukas.online/test.php';">
+      <button class="m-5" onclick="window.location.href='//localhost/Test%20Emendis/test.php';">
         Input Parameters
       </button>
     </div>
